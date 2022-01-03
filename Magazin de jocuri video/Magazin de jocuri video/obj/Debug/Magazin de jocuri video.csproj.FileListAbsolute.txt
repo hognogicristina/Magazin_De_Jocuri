@@ -1,0 +1,85 @@
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe.config
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.pdb
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csprojAssemblyReference.cache
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.admin.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Form1.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Properties.Resources.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.user.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.GenerateResource.cache
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.pdb
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\jocuri.accdb
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.modif_joc.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.joc.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.cump_joc.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.comenzi.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.viz_joc.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe.config
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.exe
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.pdb
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.pdb
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.admin.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.comenzi.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.cump_joc.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Form1.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.joc.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.modif_joc.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Properties.Resources.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.user.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.viz_joc.resources
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.GenerateResource.Cache
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csprojAssemblyReference.cache
+F:\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe.config
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.pdb
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csprojAssemblyReference.cache
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.admin.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.comenzi.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.cump_joc.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Form1.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.joc.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.modif_joc.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Properties.Resources.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.user.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.viz_joc.resources
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.GenerateResource.cache
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.pdb
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe.config
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.exe
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.pdb
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.pdb
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csprojResolveAssemblyReference.cache
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.admin.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.comenzi.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.cump_joc.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Form1.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.joc.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.modif_joc.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Properties.Resources.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.user.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.viz_joc.resources
+F:\Atestat\Atestate\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.GenerateResource.Cache
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe.config
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\bin\Debug\Magazin de jocuri video.pdb
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csprojAssemblyReference.cache
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.admin.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.comenzi.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.cump_joc.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Form1.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.joc.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.modif_joc.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.Properties.Resources.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.user.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin_de_jocuri_video.viz_joc.resources
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.GenerateResource.cache
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.exe
+D:\Visual Studio\Atestat\ATESTATUL\Magazin de jocuri video\Magazin de jocuri video\obj\Debug\Magazin de jocuri video.pdb

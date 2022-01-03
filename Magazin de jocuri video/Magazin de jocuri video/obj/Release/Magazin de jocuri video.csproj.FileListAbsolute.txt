@@ -1,0 +1,10 @@
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin de jocuri video.csprojAssemblyReference.cache
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Atestat.add_joc.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.admin.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.Form1.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.Form2.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.jocuri.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.Properties.Resources.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin_de_jocuri_video.user.resources
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin de jocuri video.csproj.GenerateResource.cache
+D:\Visual Studio\Atestat\Magazin de jocuri video\Magazin de jocuri video\obj\Release\Magazin de jocuri video.csproj.CoreCompileInputs.cache
