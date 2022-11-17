@@ -1,6 +1,7 @@
 # Shop For Video Games (Magazin De Jocuri Video)
 ## An online shop for video games (games for PC only), has administrator mode and client mode.
 This project is created in C# and it is helped by a database. This is also my project for finishig 12th grade in highschool for my baccalaureate degree, that's why my whole project is in Romanian instead of English.
+Also there is a PDF of the description from README.md in Romanian with images from the project.
 
 ###### Here it is a short introduction about the project:
 
